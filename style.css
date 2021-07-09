@@ -1,4 +1,3 @@
-/* Fonts and colors */
 body {
   color: #494949;
   font-size: 18px;
@@ -20,7 +19,6 @@ a {
   color: #4352A1;
 }
 
-/* Custom design */
 .banner {
   background-image: url("https://source.unsplash.com/random/1000x500");
   background-size: cover;
@@ -51,7 +49,6 @@ a {
   background-image: linear-gradient(to bottom, rgba(255, 225, 125, 1), rgba(255, 225, 125, 1));}
 }
 
-/* Media queries */
 @media(max-width: 1200px) {
   .container {
     width: 800px;
@@ -81,4 +78,3 @@ a {
     font-size: 20px;
   }
 }
-
